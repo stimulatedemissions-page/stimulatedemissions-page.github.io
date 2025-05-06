@@ -50,10 +50,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Install PostCSS
-        run: npm install postcss --save-dev
-      - name: Install Node.js dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Install Node.js dependancies and PostCSS
+        run: |
+          npm install postcss postcss-cli --save-dev
+          [[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || npm install
       - name: Cache Restore
         id: cache-restore
         uses: actions/cache/restore@v4

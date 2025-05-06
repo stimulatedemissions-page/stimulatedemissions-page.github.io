@@ -119,3 +119,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
 #        [languages.es.params]
 #            description  = "Descripcion del sitio web"
 #            # footerText   = ""
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

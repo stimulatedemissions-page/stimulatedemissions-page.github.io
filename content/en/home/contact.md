@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 ---
+This is a test update to the contact info to test
 
 In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
 

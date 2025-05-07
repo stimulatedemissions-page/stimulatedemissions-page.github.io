@@ -1,11 +1,12 @@
 ---
-title: "Design"
-weight: 2
+title: "Project 1"
+weight: 1
 resources:
     - src: plant.jpg
       params:
           weight: -100
-project_timeframe: June-December
+# project_timeframe: June-December
+# Info breaks when clicking on project?
 ---
 
 This theme was designed by [Victoria Drake](https://victoria.dev). Go on, explore! 💪

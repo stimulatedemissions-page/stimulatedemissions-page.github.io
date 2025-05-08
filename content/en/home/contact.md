@@ -14,6 +14,4 @@ I am thrilled to be able to work with others to create unforgettable experiences
 
 To get in touch, please reach out via email. I will respond to your inquiry promptly.
 
-<!--- *[Contact Form would go here - Hugo form implementation or link to external form]* --->
-
 I look forward to hearing from you and playing a part in something amazing together!

@@ -8,8 +8,8 @@
 @import "fontawesome-import"
 @import "academicons-import"
 @import "base"
-@import "custom_overrides"
 @import "light-style"
+@import "custom_overrides"
 
 @media (prefers-color-scheme: dark)
     @import "fonts"
@@ -19,8 +19,8 @@
     @import "fontawesome-import"
     @import "academicons-import"
     @import "base"
-	@import "custom_overrides"
     @import "dark-style"
+	@import "custom_overrides"
 
 {{ else }}
 @import "fonts"
@@ -30,6 +30,6 @@
 @import "fontawesome-import"
 @import "academicons-import"
 @import "base"
-@import "custom_overrides"
 @import "{{ $themeStyle }}-style"
+@import "custom_overrides"
 {{ end }}

@@ -7,8 +7,9 @@ description: "Learn about Stimulated Emissions, a Denver-based laser light show 
 keywords: "laser light show company, Denver, Colorado, laser show services, FDA variance, event lighting, light show design, laser operation, artist collaboration, about us"
 ---
 
-Hello!
-I am a Denver based 'laserist' offering production services to artists and event promoters. I understand that lasers add a dimension to a show that audiences love and will often even seek out specifically for the energy and impact they bring.
+Hello!  
+
+I am a Denver based ‘laserist’ offering production services to artists and event promoters. I understand that lasers add a dimension to a show that audiences love and will often even seek out specifically for the energy and impact they bring.
 
 Founded with passion for music, Stimulated Emissions was born out of love for spectacular light shows. Combining technical expertise with artistic vision, I specialize in working with artists and organizers, bringing a unique and dynamic visual element to performances and gatherings of all sizes.
 

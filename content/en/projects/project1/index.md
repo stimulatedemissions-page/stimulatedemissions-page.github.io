@@ -7,6 +7,7 @@ resources:
           weight: -100
 # project_timeframe: June-December
 # Info breaks when clicking on project?
+draft: true
 ---
 
 This theme was designed by [Victoria Drake](https://victoria.dev). Go on, explore! 💪

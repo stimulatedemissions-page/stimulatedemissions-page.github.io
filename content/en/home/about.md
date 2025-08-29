@@ -11,14 +11,14 @@ Hello!
 
 I am a Denver based ‘laserist’ offering production services to artists and event promoters. I understand that lasers add a dimension to a show that audiences love and will often even seek out specifically for the energy and impact they bring.
 
-Founded with passion for music, Stimulated Emissions was born out of love for spectacular light shows. Combining technical expertise with artistic vision, I specialize in working with artists and organizers, bringing a unique and dynamic visual element to performances and gatherings of all sizes.
+Founded with passion for music, Stimulated Emissions was created out of love for spectacular light shows. Combining technical expertise with artistic vision, I specialize in working with artists and organizers, bringing a unique and dynamic visual element to performances and gatherings of all sizes.
 
 I understand the power of light to evoke emotion, create atmosphere, and enhance the impact of music. I work closely with my clients to understand their specific needs and goals, developing customized laser light show solutions that exceed expectations.
 
 #### Key Highlights
-* **FDA Variance:** Ensuring all operations comply with the highest safety standards is my priority. Holding a variance from the FDA, I may legally operate laser light show equipment within the United States.
-* **Small Events to Large Stages:** From intimate parties to large venues, I can work with and add to your existing production.
+* **Safety & Compliance** I am a Certified Laser Safety Officer with a valid FDA variance, ensuring all of my equipment and shows meet the highest federal safety standards and regulations. My commitment to safety provides you with confidence and a legal performance every time. 
 * **Collaboration:** I believe in the power of collaboration and enjoy working closely with artists, event organizers, and the local community.
+* **Small Events to Large Stages:** From intimate parties to large venues, I can work with and add to your existing production.
 
 #### Services
 * **Laser Light Show Operation:** I ensure the safe setup and operation of high-powered laser systems.
